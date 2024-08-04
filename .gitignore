@@ -1,0 +1,6 @@
+node_modules
+my-layer/node_modules
+my-layer/my-layer.zip
+.serverless
+event.json
+.env
